@@ -1,0 +1,10 @@
+# Ignore virtualenv
+venv*
+
+# Ignore pycharm files
+.idea*
+
+# Ignore pytest-cache files
+.pytest_cache*
+
+

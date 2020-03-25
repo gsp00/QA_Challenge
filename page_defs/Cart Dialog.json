@@ -1,0 +1,8 @@
+{
+  "Close Window": {
+    "xpath": "//span[@title='Close window']"
+  },
+  "Proceed to checkout": {
+    "xpath": "//a[@title='Proceed to checkout']"
+  }
+}

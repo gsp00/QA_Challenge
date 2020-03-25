@@ -1,0 +1,8 @@
+{
+  "My Account Heading": {
+    "xpath": "//input[@id='email']"
+  },
+  "Search": {
+    "xpath": "//input[@id='search_query_top']"
+  }
+}

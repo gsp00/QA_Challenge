@@ -1,0 +1,8 @@
+{
+  "Contact Us": {
+    "xpath": "//div[@id='contact-link']/a"
+  },
+  "Sign in": {
+    "xpath": "//a[normalize-space(text())='Sign in']"
+  }
+}

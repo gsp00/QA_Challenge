@@ -1,0 +1,16 @@
+{
+  "Cart Header": {
+    "xpath": "//h1[@id='cart_title']"
+  },
+  "Cart Counting":{
+    "xpath": "//span[@id='summary_products_quantity']"
+  },
+  "Cart Table": {
+    "header": "//table[@id='cart_summary']/thead//th",
+    "rows": "//table[@id='cart_summary']/tbody/tr",
+    "Columns": {
+      "Description": "//td[@class='cart_description']/p",
+      "Qty": "//td[@class='cart_quantity text-center']/input[@type='text']"
+    }
+  }
+}

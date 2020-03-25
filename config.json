@@ -1,0 +1,5 @@
+{
+  "browser":"Chrome",
+  "test_data_folder": "test_data",
+  "defs_folder": "..\\page_defs"
+}

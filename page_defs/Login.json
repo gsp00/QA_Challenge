@@ -1,0 +1,11 @@
+{
+  "Email address": {
+      "xpath": "//input[@id='email']"
+    },
+  "Password": {
+      "xpath": "//input[@id='passwd']"
+    },
+  "Sign in": {
+      "xpath": "//button[@id='SubmitLogin']"
+    }
+}
